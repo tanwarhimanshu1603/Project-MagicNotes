@@ -1,0 +1,5 @@
+More Features to be added in the Project
+1. Add Title taking input from user in place of Note1,Note2 etc.
+2. Mark a note as Important and display it at the top.
+3. Separate Notes according to user. can be done using database.
+4. Sync and Host to web Server.
