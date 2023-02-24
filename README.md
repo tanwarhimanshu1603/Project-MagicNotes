@@ -6,3 +6,5 @@ More Features to be ADDED
 2. Mark a note as Important
 3. Separate notes according to users
 4. Sync and Host to a Web Server.
+
+Link: https://tanwarhimanshu1603.github.io/magicNotes.github.io/
